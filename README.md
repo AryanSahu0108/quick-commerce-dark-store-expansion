@@ -2,9 +2,6 @@
 
 > India-wide market screening and location intelligence for quick-commerce expansion.
 
-**Project period:** July 2026 - August 2026  
-**Project type:** Self-Project
-
 ## 1. Motivation
 
 I was curious about how quick-commerce companies decide where to expand their dark-store network. I used publicly available market, demographic and dark-store coverage data to investigate where expansion opportunities may exist across India, not only in the largest metros, across Blinkit, Zepto, Swiggy Instamart, Flipkart Minutes and BigBasket.
