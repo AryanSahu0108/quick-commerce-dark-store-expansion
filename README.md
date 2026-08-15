@@ -2,7 +2,7 @@
 
 > India-wide market screening and location intelligence for quick-commerce expansion.
 
-**Project period:** December 2025 - January 2026  
+**Project period:** July 2026 - August 2026  
 **Project type:** Self-Project
 
 ## 1. Motivation
