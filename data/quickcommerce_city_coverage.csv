@@ -1,0 +1,21 @@
+city,state,tier,total_stores,blinkit,zepto,swiggy_instamart,flipkart_minutes,bigbasket,platforms_breakdown_available,zepto_absent,hotspot_localities,source,source_date
+Bangalore,Karnataka,Tier 1 Metro,629,165,159,116,94,95,TRUE,FALSE,"Koramangala; HSR Layout; Whitefield; Indiranagar; Electronic City",QuickCommerceMap - Top 10 Cities by Dark Store Density,2026-07
+Delhi,NCT of Delhi,Tier 1 Metro,474,171,98,63,87,55,TRUE,FALSE,"Greater Kailash; Hauz Khas; Saket; Vasant Kunj; Rohini; Dwarka; Pitampura",QuickCommerceMap - Top 10 Cities by Dark Store Density,2026-07
+Hyderabad,Telangana,Tier 1 Metro,406,94,110,77,61,64,TRUE,FALSE,"Gachibowli; HITEC City; Madhapur; Kondapur; Kukatpally; LB Nagar; Dilsukhnagar; Secunderabad",QuickCommerceMap - Top 10 Cities by Dark Store Density,2026-07
+Chennai,Tamil Nadu,Tier 1 Metro,320,62,80,67,64,47,TRUE,FALSE,"T. Nagar; Anna Nagar; Adyar; Velachery; OMR; Tambaram; Porur; Ambattur",QuickCommerceMap - Top 10 Cities by Dark Store Density,2026-07
+Mumbai,Maharashtra,Tier 1 Metro,278,83,80,44,54,17,TRUE,FALSE,"Bandra; Andheri; Powai; Malad; Goregaon; Lower Parel",QuickCommerceMap - Top 10 Cities by Dark Store Density,2026-07
+Pune,Maharashtra,Tier 1 Metro,244,84,54,46,38,22,TRUE,FALSE,"Hinjewadi; Kothrud; Viman Nagar; Wakad; Baner",QuickCommerceMap - Top 10 Cities by Dark Store Density,2026-07
+Kolkata,West Bengal,Tier 1 Metro,220,58,34,29,68,31,TRUE,FALSE,"Salt Lake; New Town; Park Street; Gariahat; Behala",QuickCommerceMap - Top 10 Cities by Dark Store Density,2026-07
+Gurgaon,Haryana,Tier 1 Metro,191,75,49,31,18,18,TRUE,FALSE,"Cyber City; Golf Course Road; DLF phases; Sohna Road; Sector 29",QuickCommerceMap - Top 10 Cities by Dark Store Density,2026-07
+Lucknow,Uttar Pradesh,Tier 1 Non-Metro,135,49,30,17,23,16,TRUE,FALSE,"Gomti Nagar; Hazratganj; Aliganj; Indira Nagar; Mahanagar",QuickCommerceMap - Top 10 Cities by Dark Store Density,2026-07
+Ahmedabad,Gujarat,Tier 1 Non-Metro,122,44,20,17,29,12,TRUE,FALSE,"Satellite; SG Highway; Vastrapur; Navrangpura; Maninagar",QuickCommerceMap - Top 10 Cities by Dark Store Density,2026-07
+Ghaziabad,Uttar Pradesh,Tier 1 Metro,116,,,,,,FALSE,FALSE,Not broken out in public sample (part of Delhi NCR cluster),QuickCommerceMap - Top 10 Cities by Dark Store Density (rank 11-20 list),2026-07
+Noida,Uttar Pradesh,Tier 1 Metro,101,,,,,,FALSE,FALSE,Not broken out in public sample (part of Delhi NCR cluster),QuickCommerceMap - Top 10 Cities by Dark Store Density (rank 11-20 list),2026-07
+Jaipur,Rajasthan,Tier 1 Non-Metro,91,38,19,16,18,0,TRUE,FALSE,"Mansarovar; Vaishali Nagar; Malviya Nagar; C-Scheme; Tonk Road",QuickCommerceMap - Dark Store Expansion in Tier 2 Cities,2026-07
+Patna,Bihar,Tier 2,61,22,0,9,19,11,TRUE,TRUE,Not published in source (city-level breakdown only),QuickCommerceMap - Dark Store Expansion in Tier 2 Cities,2026-07
+Faridabad,Haryana,Tier 1 Metro,57,,,,,,FALSE,FALSE,Not broken out in public sample (part of Delhi NCR cluster),QuickCommerceMap - Top 10 Cities by Dark Store Density (rank 11-20 list),2026-07
+Thane,Maharashtra,Tier 2,55,,,,,,FALSE,FALSE,Functionally part of Mumbai Metropolitan Region; not broken out separately by platform,QuickCommerceMap - Top 10 Cities by Dark Store Density (rank 11-20 list) / Quick Commerce in Mumbai,2026-07
+Navi Mumbai,Maharashtra,Tier 2,52,,,,,,FALSE,FALSE,Functionally part of Mumbai Metropolitan Region; not broken out separately by platform,QuickCommerceMap - Top 10 Cities by Dark Store Density (rank 11-20 list) / Quick Commerce in Mumbai,2026-07
+Kanpur,Uttar Pradesh,Tier 2,50,19,,,12,,PARTIAL,FALSE,Not published in source (only Blinkit and Flipkart Minutes counts given),QuickCommerceMap - Dark Store Expansion in Tier 2 Cities,2026-07
+Nagpur,Maharashtra,Tier 2,50,17,10,7,5,11,TRUE,FALSE,Central/regional distribution node,QuickCommerceMap - Dark Store Expansion in Tier 2 Cities,2026-07
+Dehradun,Uttarakhand,Tier 2,49,17,9,9,6,8,TRUE,FALSE,Hill-state capital; unusually even 5-platform spread,QuickCommerceMap - Dark Store Expansion in Tier 2 Cities,2026-07
